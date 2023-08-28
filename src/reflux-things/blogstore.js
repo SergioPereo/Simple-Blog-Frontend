@@ -2,8 +2,8 @@ import {Store} from 'reflux';
 import {Actions} from './actions';
 import axios from 'axios';
 
-const URL_PUBLICATIONS = 'https://evening-reaches-94074.herokuapp.com/api/publications/';
-const URL_THEMES = 'https://evening-reaches-94074.herokuapp.com/api/themes/';
+const URL_PUBLICATIONS = '';
+const URL_THEMES = '';
 
 
 export class BlogStore extends Store{
